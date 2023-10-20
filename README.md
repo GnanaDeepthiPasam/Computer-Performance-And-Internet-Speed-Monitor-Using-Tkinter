@@ -23,4 +23,6 @@ I build the entire interface for this application using Tkinter and then display
 Finally, I added distinctive fonts, colors, and visuals to enhance the look and feel of my application.
 
 ## Screenshots:
+![Screenshot (1250)](https://github.com/GnanaDeepthiPasam/Computer-Performance-And-Internet-Speed-Monitor-Using-Tkinter/assets/148503787/6838cab4-930c-4ed1-a019-ea64446a2d16)
+
 
